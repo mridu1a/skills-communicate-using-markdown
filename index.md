@@ -13,11 +13,3 @@ var myVar = "Hello, world!";
 ```
 
 - [ ] Turn on my git hub pages
-
-
-
-
-
-
-
-
