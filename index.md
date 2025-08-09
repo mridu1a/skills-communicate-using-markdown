@@ -1,6 +1,7 @@
-# this is a header
-## this is also a header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<h1># 🚀 Markdown</h1>
+<h2>Welcome to my GitHub project! This repository includes introduction to markdown</h2>
+
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <h2>Image of Yaktocat</h2>
 
 ```
@@ -12,6 +13,7 @@ var myVar = "Hello, world!";
 ```
 
 - [ ] Turn on my git hub pages
+
 
 
 
